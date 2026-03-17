@@ -164,28 +164,6 @@ By completing this lab, I was able to:
 - create a Sentinel analytics rule for suspicious logon behaviour
 - design workbook visualisations to support SOC monitoring
 
-## Resume Description
-
-**Critical Infrastructure Cybersecurity Monitoring Lab**
-
-- Built a Microsoft Sentinel monitoring lab simulating security monitoring for a critical infrastructure support environment in Azure
-- Collected Windows Security Events using Azure Monitor Agent and analysed failed authentication activity in the `SecurityEvent` table
-- Developed KQL detections for brute-force style logon failures, privileged access visibility, and suspicious PowerShell activity
-- Created a scheduled Sentinel analytics rule and workbook dashboards to support alerting and security event visualisation
-
-## Screenshots to add
-
-Add screenshots to the `images/` folder after building the lab:
-
-- `sentinel-overview.png`
-- `securityevent-query.png`
-- `analytics-rule.png`
-- `workbook-dashboard.png`
-
-## Suggested LinkedIn / Portfolio line
-
-Built an Azure-based Microsoft Sentinel monitoring lab to simulate cyber threat detection for a critical infrastructure support environment, including Windows Security Event collection, KQL detections, analytics rules, and workbook dashboards.
-
 ## Future Improvements
 
 - Integrate Defender for Endpoint for richer telemetry
